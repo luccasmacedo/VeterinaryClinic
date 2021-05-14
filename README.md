@@ -1,4 +1,4 @@
-# Steps to run application
+## Steps to run application
 
 1. Create a container for running MYSQL server:
 ```
@@ -18,6 +18,7 @@
 ```
 5. Launch Application.
 
-* To test the requests on Postman, first execute the "Get User's token" and copy the TOKEN send by the server into the next header's requests.
-* Authorzation: Bearer TOKEN
-* Postman Collection: https://www.getpostman.com/collections/0910669a72c0c00f1395
+6. More info:
+   * To test the requests on Postman, first execute the "Get User's token" and copy the TOKEN send by the server into the next header's requests.
+   * Authorzation: Bearer TOKEN
+   * Postman Collection: https://www.getpostman.com/collections/0910669a72c0c00f1395
